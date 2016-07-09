@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.barterbook.signup.SignupControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.881 sec - in com.barterbook.signup.SignupControllerTest

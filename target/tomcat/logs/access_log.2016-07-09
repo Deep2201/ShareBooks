@@ -1,0 +1,16 @@
+127.0.0.1 - - [09/Jul/2016:00:45:58 +0100] "GET / HTTP/1.1" 200 2072 http-bio-8080-exec-2 6432
+127.0.0.1 - - [09/Jul/2016:00:45:58 +0100] "GET / HTTP/1.1" 200 2072 http-bio-8080-exec-1 6452
+127.0.0.1 - - [09/Jul/2016:00:45:59 +0100] "GET /resources/css/bootstrap.min.css HTTP/1.1" 200 122540 http-bio-8080-exec-3 210
+127.0.0.1 - - [09/Jul/2016:00:45:59 +0100] "GET /resources/js/bootstrap.min.js HTTP/1.1" 200 36816 http-bio-8080-exec-5 147
+127.0.0.1 - - [09/Jul/2016:00:45:59 +0100] "GET /resources/css/core.css HTTP/1.1" 200 567 http-bio-8080-exec-4 231
+127.0.0.1 - - [09/Jul/2016:00:45:59 +0100] "GET /resources/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028 http-bio-8080-exec-7 66
+127.0.0.1 - - [09/Jul/2016:00:45:59 +0100] "GET /favicon.ico HTTP/1.1" 200 2 http-bio-8080-exec-9 81
+127.0.0.1 - - [09/Jul/2016:00:46:00 +0100] "GET /favicon.ico HTTP/1.1" 200 2 http-bio-8080-exec-10 29
+127.0.0.1 - - [09/Jul/2016:00:46:17 +0100] "GET /signup HTTP/1.1" 200 1738 http-bio-8080-exec-2 584
+127.0.0.1 - - [09/Jul/2016:00:46:17 +0100] "GET /resources/css/core.css HTTP/1.1" 200 567 http-bio-8080-exec-6 23
+127.0.0.1 - - [09/Jul/2016:00:46:17 +0100] "GET /resources/css/bootstrap.min.css HTTP/1.1" 200 122540 http-bio-8080-exec-1 48
+127.0.0.1 - - [09/Jul/2016:00:46:17 +0100] "GET /resources/js/bootstrap.min.js HTTP/1.1" 200 36816 http-bio-8080-exec-5 19
+127.0.0.1 - - [09/Jul/2016:00:46:27 +0100] "GET / HTTP/1.1" 200 2072 http-bio-8080-exec-3 140
+127.0.0.1 - - [09/Jul/2016:00:46:28 +0100] "GET /resources/css/core.css HTTP/1.1" 200 567 http-bio-8080-exec-4 12
+127.0.0.1 - - [09/Jul/2016:00:46:28 +0100] "GET /resources/css/bootstrap.min.css HTTP/1.1" 200 122540 http-bio-8080-exec-7 43
+127.0.0.1 - - [09/Jul/2016:00:46:28 +0100] "GET /resources/js/bootstrap.min.js HTTP/1.1" 200 36816 http-bio-8080-exec-9 9
